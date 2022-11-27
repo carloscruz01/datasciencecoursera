@@ -1,0 +1,19 @@
+---
+title: "HelloWorld.Rmd"
+author: "Carlos Cruz"
+date: "2022-11-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Pacote utilizado:
+```{r}
+library(knitr)
+```
+
+## This is a markdown file
+
+
